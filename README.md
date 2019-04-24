@@ -12,14 +12,21 @@ By the end of this course, you’ll be able to develop highly functional iOS and
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Build efficient serverless chat web applications with AWS Lambda and JavaScript 
-<LI>Use JavaScript to dynamically modify web pages 
-<LI>Create, secure and run your API servers without provisioning of servers and by using AWS API Gateway and Lambda 
-<LI>Host SPAs without managing servers in S3 
-<LI>Store and retrieve data with DynamoDB 
-<LI>Manipulate and vend data in the cloud using AWS Lambda 
-<LI>Add user authentication to serverless applications and create a login system with Cognito 
-<LI>Speed up your web app with a CloudFront CDN. </LI></UL></DIV>
+<LI>Build cross-platform native iOS and Android application development with React Native
+
+<LI>Style and design your application using React Native
+
+<LI>Discover state and prop management
+
+<LI>Navigate between screens and create reusable components
+
+<LI>Work with Android Studio and X-code for React Native
+
+<LI>Message in real time with Firebase and React Native
+
+<LI>Work with HTTP requests and local storage with React Native
+
+<LI>Submit your application to PlayStore and AppStore </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
